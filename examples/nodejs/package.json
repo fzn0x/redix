@@ -1,0 +1,10 @@
+{
+    "name": "redix-nodejs-example",
+    "version": "1.0.0",
+    "description": "Basic example of using Node.js with Redix",
+    "main": "basic.js",
+    "scripts": {
+        "start": "node basic.js"
+    },
+    "dependencies": {}
+}

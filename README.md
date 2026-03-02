@@ -76,6 +76,13 @@ redix> DEL foo
 cargo run --example basic_usage
 ```
 
+#### Using Node.js Example
+```bash
+cd examples/nodejs
+npm install
+npm start
+```
+
 ## 🧪 Testing
 
 Run the full test suite (including integration cluster tests):

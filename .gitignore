@@ -3,3 +3,5 @@
 node_*.log
 node_*.meta
 node_*.rdb
+
+/examples/nodejs/node_modules
