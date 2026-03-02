@@ -1,0 +1,5 @@
+/target
+
+node_*.log
+node_*.meta
+node_*.rdb
